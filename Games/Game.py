@@ -1,7 +1,6 @@
-def guess_number():
-    secret_number = 17
-    guess = 0
-    guess_count = 4
+secret_number = 17
+guess = 0
+guess_count = 4
 
 print("Tebak angka 1 - 20")
 while guess < guess_count:
